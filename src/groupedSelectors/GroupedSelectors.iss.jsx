@@ -1,4 +1,3 @@
-/** @jsx createStyle */
 import { createStyle, createMixin } from 'immutable-styles';
 
 /**
