@@ -1,7 +1,11 @@
 # Immutable Styles HTML Examples
 > Repo containing examples of using immutable styles with HTML.
 
-## Setup
+## Demo
+
+An online demo can be [found here](https://callum-hart.github.io/immutable-styles-html-examples/dist/index.html).
+
+## Run Locally
 
 Clone the repository:
 
